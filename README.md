@@ -7,7 +7,6 @@ And old intro demo maker made in Flash on 2000!
 AmigaDemoMaker v0.07
 ------------------------------------
 this software is mailware :D
-4 contact: fabrizio@arteh.com
 (C)2002 Fabbroz / Arteh
 
 // Usage:
