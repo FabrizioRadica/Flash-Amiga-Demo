@@ -2,6 +2,9 @@
 And old intro demo maker made in Flash on 2000!
 
 
+![amiga demo flash](https://user-images.githubusercontent.com/1652242/47437928-c509d180-d7a9-11e8-9bbe-f300cff4d95a.PNG)
+
+
 ## USAGE (original text :D)
 
 AmigaDemoMaker v0.07
